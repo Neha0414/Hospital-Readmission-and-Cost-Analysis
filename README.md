@@ -74,11 +74,13 @@ High emergency dependency
 ⚙ Project Workflow
 1️⃣ Data Collection
 Imported CSV dataset into Python and PostgreSQL
+
 2️⃣ Data Cleaning
 Checked missing values
 Removed unnecessary columns
 Handled duplicates
 Standardized data formats
+
 3️⃣ Exploratory Data Analysis (EDA)
 
 Performed analysis on:
@@ -88,6 +90,7 @@ Risk categorization
 Hospital stay duration
 Emergency visits
 Cost leakage patterns
+
 4️⃣ SQL Analysis (PostgreSQL)
 
 Used SQL queries for:
@@ -97,6 +100,7 @@ Cost calculations
 Readmission percentage analysis
 High-cost patient identification
 Aggregation and filtering operations
+
 5️⃣ Dashboard Creation (Power BI)
 
 Created interactive dashboards to visualize:
