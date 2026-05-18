@@ -72,6 +72,7 @@ Repeated admissions
 Extended hospital stays
 High emergency dependency
 ⚙ Project Workflow
+
 1️⃣ Data Collection
 Imported CSV dataset into Python and PostgreSQL
 
